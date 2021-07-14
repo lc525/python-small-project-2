@@ -1,0 +1,15 @@
+[{
+  "id": 1,
+  "name": {
+    "first": "John",
+    "last": "Doe"
+  },
+  "rating": [ "a", "b", "c" ]
+},
+{ "id": 2,
+  "name": {
+     "first": "John",
+     "last": "Dole"
+   },
+  "rating": [ "d", "e", "f", "g" ]
+}]
